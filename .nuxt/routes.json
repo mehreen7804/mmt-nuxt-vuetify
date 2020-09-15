@@ -3,12 +3,14 @@
     "name": "thankyou",
     "path": "/thankyou",
     "component": "C:\\\\Users\\\\Mehrin\\\\mmt1\\\\pages\\\\thankyou.vue",
-    "chunkName": "pages/thankyou"
+    "chunkName": "pages/thankyou",
+    "_name": "_45005472"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Mehrin\\\\mmt1\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_1a2465b6"
   }
 ]
