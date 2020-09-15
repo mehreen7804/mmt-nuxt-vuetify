@@ -1,0 +1,14 @@
+[
+  {
+    "name": "thankyou",
+    "path": "/thankyou",
+    "component": "C:\\\\Users\\\\Mehrin\\\\mmt1\\\\pages\\\\thankyou.vue",
+    "chunkName": "pages/thankyou"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Mehrin\\\\mmt1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
